@@ -1,0 +1,13 @@
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\MyLearningAPP.exe
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\appsettings.Development.json
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\appsettings.json
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\MyLearningAPP.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\MyLearningAPP.deps.json
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\MyLearningAPP.runtimeconfig.json
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\MyLearningAPP.pdb
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\System.Data.SqlClient.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\runtimes\win-x64\native\sni.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\runtimes\win-x86\native\sni.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\A.Ramalingam2\source\repos\My-learingapp\MyLearningAPP\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
